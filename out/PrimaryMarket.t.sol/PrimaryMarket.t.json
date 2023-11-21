@@ -1,0 +1,34 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "test/PrimaryMarket.t.sol",
+    "id": 29119,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "39:24:24",
+    "nodes": [
+      {
+        "id": 29118,
+        "nodeType": "PragmaDirective",
+        "src": "39:24:24",
+        "nodes": [],
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".10"
+        ]
+      }
+    ],
+    "license": "UNLICENSED"
+  },
+  "id": 24
+}
